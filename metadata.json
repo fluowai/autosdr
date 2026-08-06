@@ -1,0 +1,6 @@
+{
+  "name": "AutoSDR - Prospecção Automatizada B2B",
+  "description": "Plataforma SaaS de prospecção automatizada com IA, scraping de empresas no Google, enriquecimento de leads, CRM Kanban e Agentes AI SDR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
